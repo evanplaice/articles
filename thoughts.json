@@ -1,0 +1,76 @@
+{
+  "posts": [
+    {
+      "title": "NPM Package Maintenance 1: What Bloat?",
+      "author": "Evan Plaice",
+      "date": "2019.4.26",
+      "url": "npm-package-maintenance-1",
+      "summary": "Optimize NPM packages contents like a Pro",
+      "content": "http://content.evanplaice.com/thoughts/npm-package-maintenance1.md",
+      "draft": false
+    },
+    {
+      "title": "50 Shades of Reduce",
+      "author": "Evan Plaice",
+      "date": "2018.2.3",
+      "url": "50-shades-of-reduce",
+      "summary": "",
+      "content": "http://content.evanplaice.com/thoughts/50-shades-of-reduce.md",
+      "draft": true
+    },
+    {
+      "title": "IT'S ALIVE!!!",
+      "author": "Evan Plaice",
+      "date": "2015.2.1",
+      "url": "its-alive",
+      "summary": "The birth of an abomination. Behold the horror, the monster!",
+      "content": "http://content.evanplaice.com/thoughts/its-alive.md",
+      "draft": true
+    },
+    {
+      "title": "Create A Vagrant Base Box",
+      "author": "Evan Plaice",
+      "date": "2019.2.1",
+      "url": "vagrant-create-a-base-box",
+      "summary": "A Step-By-Step Guide on How To Create A Vagrant Base Box Image",
+      "content": "https://evanplaice.gitlab.io/notes/DevOps/vagrant-create-base-box.md",
+      "draft": false
+    },
+    {
+      "title": "What's the Worst Bug You've Ever Written",
+      "author": "Evan Plaice",
+      "date": "2018.2.1",
+      "url": "worst-bug",
+      "summary": "From 'I think I'm going to have a panic attack' to 'I AM INVINCIBLE!'",
+      "content": "http://content.evanplaice.com/thoughts/worst-bug.md",
+      "draft": false
+    },
+    {
+      "title": "Can CSV Be Parsed By Regex?",
+      "author": "Evan Plaice",
+      "date": "2013.10.21",
+      "url": "csv-regex",
+      "summary": "There are times when you're holding a hammer and everything looks like a nail.",
+      "content": "http://content.evanplaice.com/thoughts/csv-regex.md",
+      "draft": false
+    },
+    {
+      "title": "How to Start in Open Source",
+      "author": "Evan Plaice",
+      "date": "2010.9.12",
+      "url": "open-source",
+      "summary": "An anecdote on how I started contributing to OSS",
+      "content": "http://content.evanplaice.com/thoughts/open-source.md",
+      "draft": false
+    },
+    {
+      "title": "Hello Worl... oh never mind",
+      "author": "Evan Plaice",
+      "date": "2015.12.29",
+      "url": "hello-world",
+      "summary": "Hi there, not a lot to see here ¯\\_(ツ)_/¯ more coming soon...",
+      "content": "http://content.evanplaice.com/thoughts/hello-world.md",
+      "draft": false
+    }
+  ]
+}
